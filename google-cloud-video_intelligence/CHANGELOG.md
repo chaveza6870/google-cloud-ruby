@@ -1,5 +1,15 @@
 # Release History
 
+### 2.0.0 / 2019-10-12
+
+#### ⚠ BREAKING CHANGES
+
+* The API has been retired.
+
+#### Features
+
+* Remove v1beta1
+
 ### 1.4.0 / 2019-08-13
 
 * Add VideoAnnotationResults fields
