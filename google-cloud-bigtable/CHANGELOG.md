@@ -1,5 +1,12 @@
 # Release History
 
+### 0.6.3 / 2019-10-12
+
+#### Documentation
+
+* add doctest coverage and update sample code
+* Update documentation (no visible changes)
+
 ### 0.6.2 / 2019-10-01
 
 #### Documentation
